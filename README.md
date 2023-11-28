@@ -24,3 +24,20 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
   <br>
   <img src="images/ai4randadQRCode.png" alt="Code QR" style="margin-top: 10px;"/>
 </div>
+
+## Programme
+
+### Partie 1: Fondamentaux de la robotique
+- **Titre 1**: [Description 1](#)
+- **Titre 2**: [Description 2](#)
+- **Titre 3**: [Description 3](#)
+
+### Partie 2: Technologie des drones
+- **Titre 1**: [Description 1](#)
+- **Titre 2**: [Description 2](#)
+- **Titre 3**: [Description 3](#)
+
+### Partie 3: Application de l'IA à la robotique et la technologie des drones
+- **Titre 1**: [Description 1](#)
+- **Titre 2**: [Description 2](#)
+- **Titre 3**: [Description 3](#)
