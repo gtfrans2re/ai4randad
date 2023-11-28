@@ -18,8 +18,9 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 ## Inscription
 
 <div align="center">
-  <p>Pour participer, veuillez vous inscrire via le lien suivant : <a href="https://lnkd.in/eTTTdq-6">Inscription</a></p>
-  ou scanner le Code QR ci-dessous :
+  <p>Pour participer, veuillez vous inscrire via le lien suivant : <a href="https://lnkd.in/eTTTdq-6">Inscription</a> ou</p>
+  scanner le Code QR ci-dessous :
+  <br>
   <br>
   <img src="images/ai4randadQRCode.png" alt="Code QR" style="margin-top: 10px;"/>
 </div>
