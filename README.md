@@ -17,4 +17,4 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 
 ## Inscription
 Pour participer, veuillez vous inscrire via le lien suivant : [Inscription](https://lnkd.in/eTTTdq-6)
-<img src="images/qr_code.png" align="right" />
+<img src="images/ai4randadQRCode.png" align="right" />
