@@ -1,1 +1,1 @@
-# Partie 2 : Technology des drones
+# Partie 2 : Technologie des drones
