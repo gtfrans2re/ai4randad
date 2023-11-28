@@ -16,7 +16,10 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 - Avoir un 𝗰𝗼𝗺𝗽𝘁𝗲 𝗚𝗶𝘁𝗛𝘂𝗯 et connaître les 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝗲𝘀 𝗱𝗲 𝗯𝗮𝘀𝗲 𝗱𝗲 𝗚𝗶𝘁.
 
 ## Inscription
-<p align="center">
-  Pour participer, veuillez vous inscrire via le lien suivant : [Inscription](https://lnkd.in/eTTTdq-6)
-  <img src="images/ai4randadQRCode.png" align="right" />
-</p>
+
+<div align="center">
+  <p>Pour participer, veuillez vous inscrire via le lien suivant :</p>
+  <a href="https://lnkd.in/eTTTdq-6">Inscription</a>
+  <br>
+  <img src="images/ai4randadQRCode.png" alt="Code QR" style="margin-top: 10px;"/>
+</div>
