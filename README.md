@@ -88,9 +88,30 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 
 
 ### Partie 2: Technologie des drones
-- **Titre 1**: [Description 1](#)
-- **Titre 2**: [Description 2](#)
-- **Titre 3**: [Description 3](#)
+- **Principes de base de la technologie des drones** :
+  - **Drone** :
+    - **Définition** : [Description 1](#)
+    - **Types** : [Description 2](#)
+    - **Domaines d'application** : [Description 3](#)
+    - **Pilotage de drone : règles et réglementations** : [Description 4](#)
+  - **Drones quadricoptères / quadrirotors** :
+    - **Définition** : [Description 1](#)
+    - **Principes de fonctionnement** : [Description 2](#)
+    - **Pièces du quadricoptère et leur fonction** : [Description 3](#)
+    - **Physique derrière le mouvement des drones** : [Description 4](#)
+    - **Autonomie de la batterie et temps de vol du drone** : [Description 5](#)
+- **Drones autonomes ou véhicules aériens sans pilote** :
+  - **Systèmes aériens sans pilote (UAS)** :
+    - **Définition** : [Description 1](#)
+    - **Compostion** :
+      - **Véhicule Aérien sans Pilote (UAV)** : [Description 1](#)
+      - **Contrôleur au Sol ou Remote Ground Control System (GSC)** : [Description 2](#)
+      - **Système de Communication (lien UAV-GSC)** : [Description 3](#)
+    - **Nécéssité** :
+      - **Niveaux d'Autonomie** : [Description 1](#)
+      - **Applications** : [Description 2](#)
+      - **Considérations Réglementaires** : [Description 3](#)
+
 
 ### Partie 3: Application de l'IA à la robotique et la technologie des drones
 - **Titre 1**: [Description 1](#)
