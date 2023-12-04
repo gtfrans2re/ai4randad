@@ -1,6 +1,6 @@
 # Partie 2: Technologie des drones
 
-![Couverture Robotics 101](images/DroneTechnologyCoverImage.png)
+![Couverture Drone Technology](images/DronetechnologyCoverImage.png)
 
 ## Présentation
 
@@ -19,3 +19,7 @@
   - **Applications** :
     - **Levés avec Photos Orthographiques** : [Description 1](#)
     - **Inspection Industrielle** : [Description 2](#)
+    - **Photographie Aérienne** : [Description 3](#)
+    - **Vidéographie Aérienne** : [Description 4](#)
+    - **Services de Surveillance** : [Description 5](#)
+  - 
