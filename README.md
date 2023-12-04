@@ -34,7 +34,7 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
   - **Statistiques** : [Description 3](#)
   - **Probabilité** : [Description 4](#)
  
-- **Languages de programmation** :
+- **Langages de programmation** :
   - **C** : [Description 1](#)
   - **C++** : [Description 2](#)
   - **Python** : [Description 3](#)
