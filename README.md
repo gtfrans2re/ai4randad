@@ -27,10 +27,65 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 
 ## Programme
 
+### Partie 0 : Prérequis
+- **Mathématiques** :
+  - **Calculus** : [Description 1](#)
+  - **Algèbre linéaire** : [Description 2](#)
+  - **Statistiques** : [Description 3](#)
+  - **Probabilité** : [Description 4](#)
+ 
+- **Languages de programmation** :
+  - **C** : [Description 1](#)
+  - **C++** : [Description 2](#)
+  - **Python** : [Description 3](#)
+  - **SQL** : [Description 4](#)
+  - **Robot Operating System (ROS)** : [Description 5](#)
+ 
+- **Technologies** :
+  - **Linux** : [Description 1](#)
+  - **git/Github** : [Description 2](#)
+  - **Data Structure & Algorithm** : [Description 3](#)
+  - **Problem-Solving** : [Description 4](#)
+  
 ### Partie 1: Fondamentaux de la robotique
-- **Titre 1**: [Description 1](#)
-- **Titre 2**: [Description 2](#)
-- **Titre 3**: [Description 3](#)
+- **Mécatronique** :
+  - **Microcontrôleur** : [Description 1](#)
+  - **Capteurs** : [Description 2](#)
+  - **Actionneurs** : [Description 3](#)
+  - **Modélisation 3D**  : [Description 4](#)
+  - **Conception de circuits imprimés** : [Description 5](#)
+ 
+- **Intelligence Machine** :
+  - **Traitement des images** : [Description 1](#)
+  - **Vision par ordinateur** : [Description 2](#)
+  - **Reinforcement Learning** : [Description 3](#)
+  - **ML / DL / IA** : [Descrption 4](#)
+ 
+- **Simultaneous Localisation & Mapping (SLAM)** :
+  - **Localisation & Mapping** : [Description 1](#)
+  - **Planification de chemin & navigation** : [Description 2](#)
+  - **Perception et (Re)connaissance** : [Description 3](#)
+  - **Contrôle et Actions** : [Description 4](#)
+ 
+- **Mécanique des Robots** :
+  - **Transformation des systèmes de coordonnées** : [Description 1](#)
+  - **Degré de liberté des robotos** : [Description 2](#)
+  - **Cinématique des robots** : [Description 3](#)
+  - **Dynamique des robots** [Description 4](#)
+ 
+- **Conception des systèmes de contrôle** :
+  - **Contrôle** : [Description 1](#)
+  - **Système** : [Description 2](#)
+  - **Système de contrôle** : [Description 3](#)
+ 
+- **Cycle de vie du développement de logiciels** :
+  - **Définition des besoins** : [Description 1](#)
+  - **Architecture logicielle** : [Description 2](#)
+  - **Contrôle de version (logicielle)** : [Description 3](#)
+  - **Développment agile de logiciels** : [Description 4](#)
+ 
+- **Challenge** : Conception d'un robot qui résout un problème existant en Guinée.
+
 
 ### Partie 2: Technologie des drones
 - **Titre 1**: [Description 1](#)
