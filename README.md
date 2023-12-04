@@ -44,7 +44,7 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 - **Technologies** :
   - **Linux** : [Description 1](#)
   - **git/Github** : [Description 2](#)
-  - **Data Structure & Algorithm** : [Description 3](#)
+  - **Data Structure & Algorithms** : [Description 3](#)
   - **Problem-Solving** : [Description 4](#)
   
 ### Partie 1: Fondamentaux de la robotique
