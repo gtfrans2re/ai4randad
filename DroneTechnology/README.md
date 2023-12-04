@@ -21,5 +21,22 @@
     - **Inspection Industrielle** : [Description 2](#)
     - **Photographie Aérienne** : [Description 3](#)
     - **Vidéographie Aérienne** : [Description 4](#)
-    - **Services de Surveillance** : [Description 5](#)
-  - 
+    - **Services de Surveillance** : [Description 5](#) 
+- **Drones quadricoptères / quadrirotors** :
+  - **Définition** : [Description 1](#)
+  - **Principe de fonctionnement** : [Description 2](#)
+  - **Pièces du quadricoptère et leurs fonctions** :
+    - **Quatre hélices** : [Description 1](#)
+    - **Quatre moteurs BLDC sans balais** : [Description 2]
+    - **Quatre contrôleurs de vitesse électroniques (ESC)** : [Description 3](#)
+    - **Châssis de drone quadrirotors** : [Description 4](#)
+    - **Train d'atterrissage** : [Description 5](#)
+    - **Carte de distribution d'énergie pour drone quadricoptère** : [Description 6](#)
+    - **Contrôleur de vol** : [Description 7](#)
+    - **Émetteur et récepteur** : [Description 8](#)
+    - **Batterie au lithium polymère (LiPo) & chargeur** : [Description 9](#)
+    - **GPS Module & Laser** : [Description 10](#)
+    - **Capteurs de bord (e.g. Camera Infrarouge)** : [Description 11](#)
+- **Autonomie de la batterie et temps de vol du quadricoptère** :
+  - **Autonomie d'une batterie LiPo** : [Description 1](#)
+  - **Temps de vol du quadricoptère muni d'une LiPo** : [Description 2](#)
