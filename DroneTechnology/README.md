@@ -1,4 +1,4 @@
-# Partie 2: Technologie des drones
+# Partie 2 : Technologie des drones
 
 ![Couverture Drone Technology](images/DronetechnologyCoverImage.png)
 
@@ -37,6 +37,6 @@
     - **Batterie au lithium polymère (LiPo) & chargeur** : [Description 9](#)
     - **GPS Module & Laser** : [Description 10](#)
     - **Capteurs de bord (e.g. Camera Infrarouge)** : [Description 11](#)
-- **Autonomie de la batterie et temps de vol du quadricoptère** :
-  - **Autonomie d'une batterie LiPo** : [Description 1](#)
-  - **Temps de vol du quadricoptère muni d'une LiPo** : [Description 2](#)
+  - **Autonomie de la batterie et temps de vol du quadricoptère** :
+    - **Autonomie d'une batterie LiPo** : [Description 1](#)
+    - **Temps de vol du quadricoptère muni d'une LiPo** : [Description 2](#)
