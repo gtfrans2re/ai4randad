@@ -39,4 +39,16 @@
     - **Capteurs de bord (e.g. Camera Infrarouge)** : [Description 11](#)
   - **Autonomie de la batterie et temps de vol du quadricoptère** :
     - **Autonomie d'une batterie LiPo** : [Description 1](#)
-    - **Temps de vol du quadricoptère muni d'une LiPo** : [Description 2](#)
+    - **Temps de vol du quadricoptère muni d'une LiPo** : [Description 2](#) 
+
+### Partie 1 : Drones autonomes ou véhicules aériens sans pilote
+- **Système aérien sans pilote (UAS)** :
+  - **Définition** : [Description 1](#)
+  - **Composition** :
+    - **Véhicule aérien sans pilote (UAV)** : [Description 1](#)
+    - **Contrôleur au sol ou Remote Ground-based control system (GSC)** : [Description 2](#)
+    - **Système de Communication (lie l'UAV à Système de contrôle** : [Description 3](#)
+  - **Nécéssité** :
+    - **Niveau d'Autonomie** : [Description 1](#)
+    - **Applications** : [Description 2](#)
+    - **Considérations réglementaires** : [Description 3](#)
