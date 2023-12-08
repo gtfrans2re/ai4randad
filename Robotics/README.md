@@ -82,7 +82,15 @@ Ce volet offre une introduction aux fondamentaux de la robotique
       - Dépend de l'objectif spécifique du robot.
       - Conçu pour des tâches particulières comme la fabrication, les procédures médicales ou le service à la clientèle.
 
-  - **Analogy humain-robot** : [Description 3](#)
+  - **Analogy humain-robot** :
+    - **La vue :** Chez les humains, la vue est assurée par les yeux qui captent la lumière et permettent de percevoir l'environnement. Dans les robots, cela est souvent simulé par des caméras et des capteurs qui capturent des images, permettant au robot de "voir" et d'analyser son environnement.
+    
+    - **L'ouïe :** L'ouïe humaine est réalisée par les oreilles qui captent les ondes sonores. Les robots peuvent avoir des microphones qui jouent un rôle similaire, captant les sons pour que le robot puisse répondre ou réagir à des stimuli auditifs.
+    
+    - **Le toucher :** Les humains ont la peau qui permet de sentir la pression, la texture, et la température. Les robots peuvent avoir des capteurs tactiles qui imitent cette sensation, leur permettant de détecter la pression ou la texture des objets qu'ils manipulent.
+    
+    - **L'odorat et le goût :** Ces sens sont plus complexes à imiter. Chez les humains, ils sont assurés par le nez et la langue, détectant respectivement des molécules chimiques dans l'air ou dans la nourriture. Certains robots avancés peuvent être équipés de capteurs chimiques pour détecter des substances spécifiques, mais cette technologie est moins développée comparée aux autres sens.
+
  
 - **Types de robots** :
   - **Robots terrestres** : [Description 1](#)
