@@ -99,9 +99,18 @@ Ce volet offre une introduction aux fondamentaux de la robotique
   - **Bras robotisés** : Ce sont des robots conçus principalement pour la manipulation d'objets. Ils sont couramment utilisés dans la fabrication industrielle pour des tâches comme l'assemblage, la soudure, et la peinture.
  
 - **Domaines d'application** :
-  - **Armée** : [Description 1](#)
-  - **Automobile** : [Description 2](#)
-  - **[TBC]** : [Description 3](#)
+  - **Industrie manufacturière** : automatisation des lignes de production, soudage, peinture, assemblage de pièces.
+  - **Médecine et chirurgie** : robots chirurgicaux pour des opérations précises, assistance en rééducation, robots de dispensation de médicaments.
+  - **Exploration spatiale** : rovers pour explorer d'autres planètes, satellites robotisés pour l'observation et la recherche spatiale.
+  - **Agriculture** : robots pour la plantation, la récolte, la surveillance des cultures, et la gestion du bétail.
+  - **Sécurité et défense** : robots de déminage, drones de surveillance, robots d'intervention tactique.
+  - **Logistique et transport** : robots de manutention dans les entrepôts, drones de livraison, véhicules autonomes.
+  - **Environnement et océanographie** : robots pour la surveillance environnementale, l'étude des océans, et la collecte de données climatiques.
+  - **Assistance personnelle et soins aux personnes âgées** : robots d'assistance à domicile, robots de compagnie, robots d'aide aux personnes à mobilité réduite.
+  - **Recherche et éducation** : robots utilisés dans l'enseignement de la robotique et de la technologie, robots pour des expérimentations scientifiques.
+  - **Entertainment et médias** : robots animatroniques pour le cinéma et les parcs à thème, drones pour la photographie et la réalisation de films.
+  - **Sauvetage et réponse aux urgences** : robots pour les opérations de recherche et de sauvetage dans des environnements dangereux ou inaccessibles.
+
  
 ### Partie 1 : Robotique & IoT
 - **Cartes de microcontrôleur** :
