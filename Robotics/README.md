@@ -114,11 +114,11 @@ Ce volet offre une introduction aux fondamentaux de la robotique
  
 ### Partie 1 : Robotique & IoT
 - **Cartes de microcontrôleur** :
-  - **Arduino** : [Description 1](#)
+  - **Arduino** : [Premiers pas avec Arduino](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino)
   - **Microcontrôleurs compatibles Wifi** :
-    - **esp32** : [Description 1](#)
-    - **esp8266** : [Description 2](#)
-  - **Raspberry Pi** : [Description 3](#)
+    - **esp32** : [Débuter avec l'ESP32](https://randomnerdtutorials.com/getting-started-with-esp32/)
+    - **esp8266** : [ESP8266 pour l'Internet des objets](https://www.nabto.com/esp8266-for-iot-complete-guide/)
+  - **Raspberry Pi** : [Documentation Raspberry Pi](https://www.raspberrypi.com/documentation/)
  
 - **Composantes physiques** :
   - **Capteurs** : [Description 1](#)
