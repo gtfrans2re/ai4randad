@@ -125,3 +125,19 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
   - **Transfert d'Apprentissage** ;
   - **Apprentissage Profond** ;
   - **Algorithmes Évolutifs** ;  
+
+
+### Partie 4: Préparation à l'emploi
+- Conseils importants pour les étudiants ingénieurs de première année ;
+- Letrre de motivation :
+  - C'est quoi ?
+  - Quel contenu ?
+  - Comment l'écrire ?
+- CV :
+  - C'est quoi ?
+  - Quel contenu ?
+  - Comment l'écrire ?
+- L'entretien : Comment s'y prendre ?
+  - Avant ;
+  - Pendant ;
+  - Après ;
