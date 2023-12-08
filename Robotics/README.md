@@ -33,7 +33,55 @@ Ce volet offre une introduction aux fondamentaux de la robotique
     - **Systèmes de Refroidissement**: Pour éviter la surchauffe, surtout dans les robots qui effectuent des tâches de haute intensité ou qui fonctionnent dans des environnements chauds.
     - **Boîtier de Protection et Structure**: La structure qui maintient tous les composants ensemble et les protège des facteurs environnementaux.
     - **Logiciel et Firmware**: Cela inclut le système d'exploitation et le logiciel qui fonctionne sur le matériel, contrôlant les actions et les réponses du robot.
-  - **Anatomie des robots : Software** : [Description 2](#)
+  - **Anatomie des robots : Software** : 
+    - **Système d'exploitation (OS) :**
+      - Logiciel principal qui gère les ressources matérielles du robot.
+      - Fournit des services communs pour d'autres logiciels.
+      - Crucial pour coordonner les tâches et gérer les ressources efficacement.
+  
+  - **Logiciel de système de contrôle :**
+      - Responsable de l'interprétation des commandes et de leur traduction en actions.
+      - Comprend des algorithmes pour le contrôle des mouvements, la gestion des capteurs et des actionneurs.
+      - Assure que le robot peut se déplacer et fonctionner comme prévu.
+  
+  - **Logiciel de navigation et de cartographie :**
+      - Aide les robots mobiles à comprendre et à naviguer dans leur environnement.
+      - Inclut des algorithmes pour la planification de trajets et l'évitement d'obstacles.
+      - Peut impliquer la localisation et la cartographie simultanées (SLAM).
+  
+  - **Logiciel de fusion de capteurs :**
+      - Intègre les données de différentes sources sensorielles.
+      - Fournit une compréhension complète des environs.
+      - Essentiel pour la détection d'objets et la surveillance de l'environnement.
+  
+  - **Modules d'intelligence artificielle (IA) et d'apprentissage automatique (ML) :**
+      - Utilisés pour des capacités de prise de décision et d'apprentissage avancées.
+      - Peuvent inclure des réseaux neuronaux, des arbres de décision et d'autres algorithmes d'IA.
+      - Permettent au robot de s'adapter à de nouvelles situations et de prendre des décisions complexes.
+  
+  - **Logiciel de communication :**
+    - Permet au robot de communiquer avec d'autres systèmes, dispositifs ou réseaux.
+    - Essentiel pour recevoir des commandes et envoyer des données.
+    - Important pour l'intégration à d'autres systèmes dans un environnement intelligent.
+  
+  - **Logiciel d'interface utilisateur (UI) :**
+    - Conçu pour l'interaction homme-robot.
+    - Peut inclure des interfaces graphiques, des modules de reconnaissance vocale.
+    - Facilite la télécommande et d'autres formes d'interaction.
+  
+  - **Logiciel de diagnostic et de maintenance :**
+    - Aide à surveiller la santé du robot et à diagnostiquer les problèmes.
+    - Parfois utilisé pour effectuer des tâches de maintenance automatique.
+    - Crucial pour la fonctionnalité et la fiabilité à long terme.
+  
+  - **Logiciel de sécurité :**
+    - Essentiel pour protéger contre les accès non autorisés et les menaces cybernétiques.
+    - Important étant donné la connectivité croissante des robots.
+  
+  - **Logiciel d'application personnalisé :**
+    - Dépend de l'objectif spécifique du robot.
+    - Conçu pour des tâches particulières comme la fabrication, les procédures médicales ou le service à la clientèle.
+
   - **Analogy humain-robot** : [Description 3](#)
  
 - **Types de robots** :
