@@ -45,8 +45,8 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 - **Technologies** :
   - **Linux** : [https://linuxjourney.com/change_locale/fr](https://linuxjourney.com/change_locale/fr)
   - **git/Github** : [https://www.pierre-giraud.com/git-github-apprendre-cours/](https://www.pierre-giraud.com/git-github-apprendre-cours/)
-  - **Data Structure & Algorithms** : [Description 3](#)
-  - **Problem-Solving** : [Description 4](#)
+  - **Data Structure & Algorithms** : [https://www.programiz.com/dsa](https://www.programiz.com/dsa)
+  - **Problem-Solving** : [https://brilliant.org](https://brilliant.org)
   
 ### Partie 1: Fondamentaux de la robotique
 - **Mécatronique** :
