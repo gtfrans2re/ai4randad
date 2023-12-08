@@ -20,7 +20,19 @@ Ce volet offre une introduction aux fondamentaux de la robotique
  
 - **Anatomie des robots** :
   - **Anatomie d'un robot** : [https://motion.cs.illinois.edu/RoboticSystems/AnatomyOfARobot.html](https://motion.cs.illinois.edu/RoboticSystems/AnatomyOfARobot.html) ;
-  - **Anatomie des robots : hardware** : [Description 1](#)
+  - **Anatomie des robots : hardware** :
+    - **Unité Centrale de Traitement (CPU)**: Le cerveau du robot, responsable du traitement des instructions, de la prise de décisions et de l'exécution des commandes.
+    - **Capteurs**: Ce sont les équivalents des sens humains pour un robot. Ils comprennent des caméras (vision), des microphones (ouïe) et divers capteurs environnementaux pour détecter la température, la proximité et la pression.
+    - **Actionneurs**: Ils fonctionnent comme des muscles, permettant au robot de se mouvoir. Cela inclut des moteurs pour le mouvement des membres, des roues ou d'autres parties.
+    - **Alimentation**: C'est la source d'énergie du robot, souvent des batteries ou des cellules d'énergie, qui doivent être régulièrement rechargées ou remplacées.
+    - **Stockage de Mémoire**: Semblable à la capacité humaine de se souvenir, cela stocke les données et instructions nécessaires au fonctionnement du robot.
+    - **Interfaces d'Entrée/Sortie**: Elles sont utilisées pour communiquer avec d'autres appareils ou systèmes, comme des ports USB, des modules de communication sans fil (comme le Wi-Fi ou le Bluetooth), et parfois des interfaces spécialisées pour des tâches spécifiques.
+    - **Carte Mère**: Le centre de connexion où tous les autres composants sont reliés, leur permettant de communiquer entre eux.
+    - **Effecteurs Finaux**: Ce sont les outils ou dispositifs situés à l'extrémité d'un bras robotique, tels que des pinces, des caméras ou des outils spécialisés pour des tâches comme le soudage ou la peinture.
+    - **Système de Navigation**: Cela inclut le GPS et d'autres technologies pour aider le robot à comprendre sa position et à se déplacer.
+    - **Systèmes de Refroidissement**: Pour éviter la surchauffe, surtout dans les robots qui effectuent des tâches de haute intensité ou qui fonctionnent dans des environnements chauds.
+    - **Boîtier de Protection et Structure**: La structure qui maintient tous les composants ensemble et les protège des facteurs environnementaux.
+    - **Logiciel et Firmware**: Cela inclut le système d'exploitation et le logiciel qui fonctionne sur le matériel, contrôlant les actions et les réponses du robot.
   - **Anatomie des robots : Software** : [Description 2](#)
   - **Analogy humain-robot** : [Description 3](#)
  
