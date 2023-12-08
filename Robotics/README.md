@@ -95,6 +95,5 @@ Ce volet offre une introduction aux fondamentaux de la robotique
  
 ### Partie 3 : Robotique & Open Source
 - **Organisations majeures** :
-  - **OSRF (Open Source Robotics Foundation)** : [Description 1](#)
-  - **JdeRobot** : [Description 2](#)
-  - **Autres** : [Description 3](#)
+  - **OSRF (Open Source Robotics Foundation)** : [https://www.openrobotics.org](https://www.openrobotics.org)
+  - **JdeRobot** : [https://jderobot.github.io](https://jderobot.github.io)
