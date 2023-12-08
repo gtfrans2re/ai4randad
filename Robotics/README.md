@@ -3,8 +3,10 @@
 ![Couverture Robotics 101](images/roboticsCoverImage.png)
 
 ## Présentation
+Ce volet offre une introduction aux fondamentaux de la robotique
 
-## Objectifs
+## Objectif
+- Fournir un aperçu général de la robotique ;
 
 ## Programme
 
