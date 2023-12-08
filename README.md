@@ -38,15 +38,15 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
     - **Khan Academy - Statistiques & Probabilité** : [https://www.khanacademy.org/math/statistics-probability](https://www.khanacademy.org/math/statistics-probability)
  
 - **Langages de programmation** :
-  - **C** : [Description 1](#)
-  - **C++** : [Description 2](#)
-  - **Python** : [Description 3](#)
-  - **SQL** : [Description 4](#)
-  - **Robot Operating System (ROS)** : [Description 5](#)
+  - **C** : [https://www.programiz.com/c-programming](https://www.programiz.com/c-programming)
+  - **C++** : [https://www.programiz.com/cpp-programming](https://www.programiz.com/cpp-programming)
+  - **Python** : [https://www.kaggle.com/learn](https://www.kaggle.com/learn)
+  - **SQL** : [https://www.programiz.com/sql](https://www.programiz.com/sql)
+  - **Robot Operating System (ROS)** : [https://drive.google.com/drive/folders/1H48MY7bUYBnqQ-orHN9U2pBoo43jAd8e](https://drive.google.com/drive/folders/1H48MY7bUYBnqQ-orHN9U2pBoo43jAd8e)
  
 - **Technologies** :
-  - **Linux** : [Description 1](#)
-  - **git/Github** : [Description 2](#)
+  - **Linux** : [https://linuxjourney.com/change_locale/fr](https://linuxjourney.com/change_locale/fr)
+  - **git/Github** : [https://www.pierre-giraud.com/git-github-apprendre-cours/](https://www.pierre-giraud.com/git-github-apprendre-cours/)
   - **Data Structure & Algorithms** : [Description 3](#)
   - **Problem-Solving** : [Description 4](#)
   
