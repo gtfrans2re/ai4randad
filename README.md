@@ -30,12 +30,10 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 ### Partie 0 : Prérequis
 - **Mathématiques** :
   - **Calculus** :
-    - **Khan Academy - Calculus 1** : [https://www.khanacademy.org/math/calculus-1](https://www.khanacademy.org/math/calculus-1)
-    - **Khan Academy - Calculus 2** : [https://www.khanacademy.org/math/calculus-2](https://www.khanacademy.org/math/calculus-2) 
-  - **Algèbre linéaire** :
-    - **Khan Academy - Algèbre Linéaire** : [https://www.khanacademy.org/math/linear-algebra](https://www.khanacademy.org/math/linear-algebra)
-  - **Statistiques & Probabilité** :
-    - **Khan Academy - Statistiques & Probabilité** : [https://www.khanacademy.org/math/statistics-probability](https://www.khanacademy.org/math/statistics-probability)
+    - **Calculus 1** : [https://www.khanacademy.org/math/calculus-1](https://www.khanacademy.org/math/calculus-1)
+    - **Calculus 2** : [https://www.khanacademy.org/math/calculus-2](https://www.khanacademy.org/math/calculus-2) 
+  - **Algèbre linéaire** : [https://www.khanacademy.org/math/linear-algebra](https://www.khanacademy.org/math/linear-algebra)
+  - **Statistiques & Probabilité** : [https://www.khanacademy.org/math/statistics-probability](https://www.khanacademy.org/math/statistics-probability)
  
 - **Langages de programmation** :
   - **C** : [https://www.programiz.com/c-programming](https://www.programiz.com/c-programming)
