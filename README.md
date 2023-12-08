@@ -141,6 +141,8 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
   - Avant ;
   - Pendant ;
   - Après ;
+
+---
  
 ### Opportunités pour étudiants ingénieurs :
 - Google Developer Student Clubs (GSoC) ;
