@@ -50,40 +50,40 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
   
 ### Partie 1: Fondamentaux de la robotique
 - **Mécatronique** :
-  - **Microcontrôleur** : [Description 1](#)
-  - **Capteurs** : [Description 2](#)
-  - **Actionneurs** : [Description 3](#)
-  - **Modélisation 3D**  : [Description 4](#)
-  - **Conception de circuits imprimés** : [Description 5](#)
+  - **Microcontrôleur** ;
+  - **Capteurs** ;
+  - **Actionneurs** ;
+  - **Modélisation 3D**  ;
+  - **Conception de circuits imprimés** ;
  
 - **Intelligence Machine** :
-  - **Traitement des images** : [Description 1](#)
-  - **Vision par ordinateur** : [Description 2](#)
-  - **Reinforcement Learning** : [Description 3](#)
-  - **ML / DL / IA** : [Descrption 4](#)
+  - **Traitement des images** ;
+  - **Vision par ordinateur** ;
+  - **Reinforcement Learning** ;
+  - **ML / DL / IA** ;
  
 - **Simultaneous Localisation & Mapping (SLAM)** :
-  - **Localisation & Mapping** : [Description 1](#)
-  - **Planification de chemin & navigation** : [Description 2](#)
-  - **Perception et (Re)connaissance** : [Description 3](#)
-  - **Contrôle et Actions** : [Description 4](#)
+  - **Localisation & Mapping** ;
+  - **Planification de chemin & navigation** ;
+  - **Perception et (Re)connaissance** : ;
+  - **Contrôle et Actions** ;
  
 - **Mécanique des Robots** :
-  - **Transformation des systèmes de coordonnées** : [Description 1](#)
-  - **Degré de liberté des robotos** : [Description 2](#)
-  - **Cinématique des robots** : [Description 3](#)
-  - **Dynamique des robots** [Description 4](#)
+  - **Transformation des systèmes de coordonnées** ;
+  - **Degré de liberté des robotos** ;
+  - **Cinématique des robots** ;
+  - **Dynamique des robots** ;
  
 - **Conception des systèmes de contrôle** :
-  - **Contrôle** : [Description 1](#)
-  - **Système** : [Description 2](#)
-  - **Système de contrôle** : [Description 3](#)
+  - **Contrôle** ;
+  - **Système** ;
+  - **Système de contrôle** ;
  
 - **Cycle de vie du développement de logiciels** :
-  - **Définition des besoins** : [Description 1](#)
-  - **Architecture logicielle** : [Description 2](#)
-  - **Contrôle de version (logicielle)** : [Description 3](#)
-  - **Développment agile de logiciels** : [Description 4](#)
+  - **Définition des besoins** ;
+  - **Architecture logicielle** ;
+  - **Contrôle de version (logicielle)** ;
+  - **Développment agile de logiciels** ;
  
 - **Challenge** : Conception d'un robot qui résout un problème existant en Guinée.
 
@@ -91,27 +91,27 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 ### Partie 2: Technologie des drones
 - **Principes de base de la technologie des drones** :
   - **Drone** :
-    - **Définition** : [Description 1](#)
-    - **Types** : [Description 2](#)
-    - **Domaines d'application** : [Description 3](#)
-    - **Pilotage de drone : règles et réglementations** : [Description 4](#)
+    - **Définition** ;
+    - **Types** ;
+    - **Domaines d'application** ;
+    - **Pilotage de drone ;
   - **Drones quadricoptères / quadrirotors** :
-    - **Définition** : [Description 1](#)
-    - **Principes de fonctionnement** : [Description 2](#)
-    - **Pièces du quadricoptère et leur fonction** : [Description 3](#)
-    - **Physique derrière le mouvement des drones** : [Description 4](#)
-    - **Autonomie de la batterie et temps de vol du drone** : [Description 5](#)
+    - **Définition** ;
+    - **Principes de fonctionnement** ;
+    - **Pièces du quadricoptère et leur fonction** ;
+    - **Physique derrière le mouvement des drones** ;
+    - **Autonomie de la batterie et temps de vol du drone** ;
 - **Drones autonomes ou véhicules aériens sans pilote** :
   - **Systèmes aériens sans pilote (UAS)** :
-    - **Définition** : [Description 1](#)
+    - **Définition** ;
     - **Compostion** :
-      - **Véhicule Aérien sans Pilote (UAV)** : [Description 1](#)
-      - **Contrôleur au Sol ou Remote Ground Control System (GSC)** : [Description 2](#)
-      - **Système de Communication (lien UAV-GSC)** : [Description 3](#)
+      - **Véhicule Aérien sans Pilote (UAV)** ;
+      - **Contrôleur au Sol ou Remote Ground Control System (GSC)** ;
+      - **Système de Communication (lien UAV-GSC)** ;
     - **Nécéssité** :
-      - **Niveaux d'Autonomie** : [Description 1](#)
-      - **Applications** : [Description 2](#)
-      - **Considérations Réglementaires** : [Description 3](#)
+      - **Niveaux d'Autonomie** ;
+      - **Applications** ;
+      - **Considérations Réglementaires** ;
 
 
 ### Partie 3: Application de l'IA à la robotique et la technologie des drones
