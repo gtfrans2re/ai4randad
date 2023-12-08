@@ -12,14 +12,16 @@ Ce volet offre une introduction aux fondamentaux de la robotique
 
 ### Partie 0 : Introduction
 - **Robot(ique)** :
-  - **Historique** : [Origines du « robot » et de la « robotique »](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html#:~:text=Origins%20of%20%22robot%22%20and%20%22robotics%22)
-  - **Définition** : [Définitions de « robot »](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html#:~:text=Definitions%20of%20%22robot%22)
-  - **Loi d'Assimov** : [Les lois de la robotique](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html#:~:text=Asimov%20also%20proposed%20three%20%22Laws%20of%20Robotics%22%20that%20his%20robots%2C%20as%20well%20as%20sci%2Dfi%20robotic%20characters%20of%20many%20other%20stories%2C%20followed%3A)
-  - **Robotique Responsable** : [https://responsiblerobotics.eu](https://responsiblerobotics.eu)
+  - **Historique** : [Origines du « robot » et de la « robotique »](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html#:~:text=Origins%20of%20%22robot%22%20and%20%22robotics%22) ;
+  - **Définition** : [Définitions de « robot »](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html#:~:text=Definitions%20of%20%22robot%22) ;
+  - **Loi d'Assimov** : [Les lois de la robotique](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/history.html#:~:text=Asimov%20also%20proposed%20three%20%22Laws%20of%20Robotics%22%20that%20his%20robots%2C%20as%20well%20as%20sci%2Dfi%20robotic%20characters%20of%20many%20other%20stories%2C%20followed%3A) ;
+  - **Robotique Responsable** : [https://responsiblerobotics.eu](https://responsiblerobotics.eu) ;
+  - **Le robot idéal** : [Dix principales capacités d’un robot idéal](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/robotics/) ;
  
 - **Anatomie des robots** :
+  - **Anatomie d'un robot** : [https://motion.cs.illinois.edu/RoboticSystems/AnatomyOfARobot.html](https://motion.cs.illinois.edu/RoboticSystems/AnatomyOfARobot.html) ;
   - **Anatomie des robots : hardware** : [Description 1](#)
-  - **Anatomie des robots : hardware** : [Description 2](#)
+  - **Anatomie des robots : Software** : [Description 2](#)
   - **Analogy humain-robot** : [Description 3](#)
  
 - **Types de robots** :
