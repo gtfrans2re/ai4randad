@@ -80,7 +80,7 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
  
 - **Mécanique des Robots** :
   - **Transformation des systèmes de coordonnées** ;
-  - **Degré de liberté des robotos** ;
+  - **Degré de liberté des robots** ;
   - **Cinématique des robots** ;
   - **Dynamique des robots** ;
  
@@ -104,7 +104,7 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
     - **Définition** ;
     - **Types** ;
     - **Domaines d'application** ;
-    - **Pilotage de drone ;
+    - **Pilotage de drone** ;
   - **Drones quadricoptères / quadrirotors** :
     - **Définition** ;
     - **Principes de fonctionnement** ;
@@ -154,7 +154,7 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 
 ---
  
-### Opportunités pour étudiants ingénieurs :
+### P.S. Opportunités pour étudiants ingénieurs :
 - Google Developer Student Clubs (GSoC) ;
 - Google Summer of Code (GSoC) ;
 - Outreachy ;
