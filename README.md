@@ -115,6 +115,13 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 
 
 ### Partie 3: Application de l'IA à la robotique et la technologie des drones
-- **Titre 1**: [Description 1](#)
-- **Titre 2**: [Description 2](#)
-- **Titre 3**: [Description 3](#)
+
+- Types d'Apprentissage Automatique en Robotique
+
+  - **Apprentissage Supervisé** ;
+  - **Apprentissage Non Supervisé** ; 
+  - **Apprentissage par Renforcement** ;
+  - **Apprentissage Semi-Supervisé** ;
+  - **Transfert d'Apprentissage** ;
+  - **Apprentissage Profond** ;
+  - **Algorithmes Évolutifs** ;  
