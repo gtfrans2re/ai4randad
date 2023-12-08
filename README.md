@@ -47,6 +47,13 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
   - **git/Github** : [https://www.pierre-giraud.com/git-github-apprendre-cours/](https://www.pierre-giraud.com/git-github-apprendre-cours/)
   - **Data Structure & Algorithms** : [https://www.programiz.com/dsa](https://www.programiz.com/dsa)
   - **Problem-Solving** : [https://brilliant.org](https://brilliant.org)
+
+---
+## Avant de commencer
+- Le contenu de quelques sites n'est disponible uniquement en anglais, vous pouvez installer l'extension de navigateur Google Translate pour traduire la page en français pour vous.
+- Vous trouverez les instructions sur comment le faire ici 👉 [https://support.google.com/chrome/answer/173424?hl=fr&co=GENIE.Platform%3DDesktop&fbclid=IwAR0Cplv1v6TskG2UWjRUkD_ujun5dJY8RUb3dMKm3vzUPkqXZyEI8GoAz3s](https://support.google.com/chrome/answer/173424?hl=fr&co=GENIE.Platform%3DDesktop&fbclid=IwAR0Cplv1v6TskG2UWjRUkD_ujun5dJY8RUb3dMKm3vzUPkqXZyEI8GoAz3s)
+
+---
   
 ### Partie 1: Fondamentaux de la robotique
 - **Mécatronique** :
