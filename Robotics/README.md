@@ -93,10 +93,10 @@ Ce volet offre une introduction aux fondamentaux de la robotique
 
  
 - **Types de robots** :
-  - **Robots terrestres** : [Description 1](#)
-  - **Robots aériens** : [Description 2](#)
-  - **Robots sous-marins** : [Description 3](#)
-  - **Bras robotisés** : [Description 4](#)
+  - **Robots terrestres** : Ce sont des robots conçus pour se déplacer et opérer sur des surfaces terrestres. Les exemples incluent les rovers d'exploration planétaire, les robots de déminage, et les robots de livraison autonomes.
+  - **Robots aériens** : Ces robots opèrent dans les airs. Ils comprennent des drones utilisés pour la photographie aérienne, la surveillance, et la livraison de colis.
+  - **Robots sous-marins** : Ces robots sont spécialisés pour l'exploration et le travail dans les environnements aquatiques. On y trouve des véhicules autonomes sous-marins (AUV) pour l'étude des fonds marins et des ROV (Remote Operated Vehicles) pour des tâches comme la réparation de pipelines sous-marins.
+  - **Bras robotisés** : Ce sont des robots conçus principalement pour la manipulation d'objets. Ils sont couramment utilisés dans la fabrication industrielle pour des tâches comme l'assemblage, la soudure, et la peinture.
  
 - **Domaines d'application** :
   - **Armée** : [Description 1](#)
