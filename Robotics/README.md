@@ -114,11 +114,11 @@ Ce volet offre une introduction aux fondamentaux de la robotique
  
 ### Partie 1 : Robotique & IoT
 - **Cartes de microcontrôleur** :
-  - **Arduino** : [Premiers pas avec Arduino](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino)
+  - **Arduino** : [Premiers pas avec Arduino](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino) ;
   - **Microcontrôleurs compatibles Wifi** :
-    - **esp32** : [Débuter avec l'ESP32](https://randomnerdtutorials.com/getting-started-with-esp32/)
-    - **esp8266** : [ESP8266 pour l'Internet des objets](https://www.nabto.com/esp8266-for-iot-complete-guide/)
-  - **Raspberry Pi** : [Documentation Raspberry Pi](https://www.raspberrypi.com/documentation/)
+    - **esp32** : [Débuter avec l'ESP32](https://randomnerdtutorials.com/getting-started-with-esp32/) ;
+    - **esp8266** : [ESP8266 pour l'Internet des objets](https://www.nabto.com/esp8266-for-iot-complete-guide/) ;
+  - **Raspberry Pi** : [Documentation Raspberry Pi](https://www.raspberrypi.com/documentation/) ;
  
 - **Composantes physiques** :
   - **Capteurs** ;
@@ -128,9 +128,9 @@ Ce volet offre une introduction aux fondamentaux de la robotique
     - **Buzzers** ;
     - **Autres** ;
   - **Virtualisation & Plateformes** :
-    - **Tinkercad** : [https://www.tinkercad.com](https://www.tinkercad.com)
-    - **Circuito.io** : [https://www.circuito.io](https://www.circuito.io)
-    - **hackster.io** : [https://www.hackster.io](https://www.hackster.io)
+    - **Tinkercad** : [https://www.tinkercad.com](https://www.tinkercad.com) ;
+    - **Circuito.io** : [https://www.circuito.io](https://www.circuito.io) ;
+    - **hackster.io** : [https://www.hackster.io](https://www.hackster.io) ;
   - **Communication** :
     - **Serial** ;
     - **Parallèle** ;
@@ -172,5 +172,5 @@ Ce volet offre une introduction aux fondamentaux de la robotique
  
 ### Partie 3 : Robotique & Open Source
 - **Organisations majeures** :
-  - **OSRF (Open Source Robotics Foundation)** : [https://www.openrobotics.org](https://www.openrobotics.org)
-  - **JdeRobot** : [https://jderobot.github.io](https://jderobot.github.io)
+  - **OSRF (Open Source Robotics Foundation)** : [https://www.openrobotics.org](https://www.openrobotics.org) ;
+  - **JdeRobot** : [https://jderobot.github.io](https://jderobot.github.io) ;
