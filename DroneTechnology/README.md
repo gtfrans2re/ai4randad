@@ -3,8 +3,10 @@
 ![Couverture Drone Technology](images/DronetechnologyCoverImage.png)
 
 ## Présentation
+Ce volet offre une introduction aux bases de la technologie des drones
 
 ## Objectifs
+- Fournir un aperçu général de la technologie des drones ;
 
 ## Programme
 
