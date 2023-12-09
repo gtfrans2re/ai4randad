@@ -121,54 +121,54 @@ Ce volet offre une introduction aux fondamentaux de la robotique
   - **Raspberry Pi** : [Documentation Raspberry Pi](https://www.raspberrypi.com/documentation/)
  
 - **Composantes physiques** :
-  - **Capteurs** : [Description 1](#)
-  - **Actionneurs** : [Description 2](#)
+  - **Capteurs** ;
+  - **Actionneurs** ;
   - **Suppléments** :
-    - **LEDs** : [Description 1](#)
-    - **Buzzers** : [Description 2](#)
-    - **Autres** : [Description 3](#)
+    - **LEDs** ;
+    - **Buzzers** ;
+    - **Autres** ;
   - **Virtualisation & Plateformes** :
     - **Tinkercad** : [https://www.tinkercad.com](https://www.tinkercad.com)
     - **Circuito.io** : [https://www.circuito.io](https://www.circuito.io)
     - **hackster.io** : [https://www.hackster.io](https://www.hackster.io)
   - **Communication** :
-    - **Serial** : [Description 1](#)
-    - **Parallèle** : [Description 2](#)
+    - **Serial** ;
+    - **Parallèle** ;
   - **Pins** :
-    - **Digital** : [Description 1](#)
-    - **Analog** : [Description 2](#)
+    - **Digital** ;
+    - **Analog** ;
    
 - **Construction d'un robot** :
-  - **Collecte de composants électroniques** : [Description 1](#)
-  - **Assemblage desdits composants** : [Description 2](#)
-  - **Mouvements du robot** : [Description 3](#)
-  - **Codage du robot** : [Description 4](#)
-  - **Téléversement du code** : [Description 5](#)
+  - **Collecte de composants électroniques** ;
+  - **Assemblage desdits composants** ;
+  - **Mouvements du robot** ;
+  - **Codage du robot** ;
+  - **Téléversement du code** ;
  
 - **Internet des Objets** :
-  - **Définition** : [Description 1](#)
-  - **Microcontrôleur activé par Wifi** : [Description 2](#)
-  - **Indicator LEDs** : [Description 3](#)
-  - **Architecture cloud IoT** : [Description 4](#)
-  - **Connection Microcontrôleur & Cloud** : [Description 5](#)
+  - **Définition** ;
+  - **Microcontrôleur activé par Wifi** ;
+  - **Indicator LEDs** ;
+  - **Architecture cloud IoT** ;
+  - **Connection Microcontrôleur & Cloud** ;
  
 ### Partie 2 : Fondation du code pour ROS ou Robot Operating System (Système d'Exploitation pour la Robotique)
-- **Linux pour ROS** :
-  - **Navigation à travers un système de fichiers Linux** : [Description 1](#)
-  - **Interagir avec le système de fichiers Linux** : [Description 2](#)
-  - **Editer des fichiers à l'aide du shell (Emacs/Vi/Vim)** : [Description 3](#)
-  - **Managing access to files (permissions)** : [Description 4](#)
-  - **Shell / bash scripting** : [Description 5](#)
-  - **Gérer les exécutions de programmes Linux (Processes)** : [Description 6](#)
-  - **Se connecter à l'ordinateur distant d'un robot (ssh)** : [Description 7](#)
+- **Linux pour ROS** : 
+  - **Navigation à travers un système de fichiers Linux** ;
+  - **Interagir avec le système de fichiers Linux** ;
+  - **Editer des fichiers à l'aide du shell (Emacs/Vi/Vim)** ;
+  - **Managing access to files (permissions)** ;
+  - **Shell / bash scripting** ;
+  - **Gérer les exécutions de programmes Linux (Processes)** ;
+  - **Se connecter à l'ordinateur distant d'un robot (ssh)** ;
  
 - **Python (3) for ROS** :
-  - **Stockage des données dans des variables** : [Description 1](#)
-  - **Operating with data in the variables** : [Description 2](#)
-  - **Modifier le comportement en fonction des conditions** : [Description 3](#)
-  - **Création de fonctions pouvant être appelées depuis d'autres endroits du code** : [Description 4](#)
-  - **Comment encapsuler le code dans des classes** : [Description 5](#)
-  - **Avoir un code propre et robuste** : [Description 6](#)
+  - **Stockage des données dans des variables** ;
+  - **Operating with data in the variables** ;
+  - **Modifier le comportement en fonction des conditions** ;
+  - **Création de fonctions pouvant être appelées depuis d'autres endroits du code** ;
+  - **Comment encapsuler le code dans des classes** ;
+  - **Avoir un code propre et robuste** ;
  
 ### Partie 3 : Robotique & Open Source
 - **Organisations majeures** :
