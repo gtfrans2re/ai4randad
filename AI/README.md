@@ -1,6 +1,6 @@
 # Partie 3 : Application de l'IA à la robotique et la technologie des drones
 
-![Couverture Robotics 101](images/AIRANDAD.png)
+![Couverture AI 4 RANDAD](images/IARANDAD.png)
 
 ## Présentation
 Ce volet explorer l'application de l'intelligence artificielle dans la robotique et la technologie des drones.
