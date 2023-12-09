@@ -138,7 +138,7 @@ Ce volet offre une introduction aux fondamentaux de la robotique
     - **Digital** ;
     - **Analog** ;
    
-- **Construction d'un robot** :
+- **Construction d'un robot** : [https://intorobotics.com](https://intorobotics.com)
   - **Collecte de composants électroniques** ;
   - **Assemblage desdits composants** ;
   - **Mouvements du robot** ;
