@@ -49,12 +49,15 @@ Ce volet offre une introduction aux bases de la technologie des drones
 
 ### Partie 1 : Drones autonomes ou véhicules aériens sans pilote
 - **Système aérien sans pilote (UAS)** :
-  - **Définition** : [Description 1](#)
-  - **Composition** :
-    - **Véhicule aérien sans pilote (UAV)** : [Description 1](#)
-    - **Contrôleur au sol ou Remote Ground-based control system (GSC)** : [Description 2](#)
-    - **Système de Communication (lie l'UAV à Système de contrôle** : [Description 3](#)
-  - **Nécéssité** :
-    - **Niveau d'Autonomie** : [Description 1](#)
-    - **Applications** : [Description 2](#)
-    - **Considérations réglementaires** : [Description 3](#)
+  - **Définition** :
+    - Un Système d'Aérien sans Pilote (UAS) est un ensemble intégré comprenant un Véhicule Aérien sans Pilote (UAV), un système de contrôle au sol (Ground-based Control System, GCS), et un système de communication reliant les deux. Ce système permet la conduite de missions aériennes sans la présence physique d'un pilote dans l'aéronef. Les UAS sont utilisés dans diverses applications, allant de la surveillance à la recherche et sauvetage, et peuvent fonctionner sous différents niveaux d'autonomie, allant du contrôle à distance manuel à l'autonomie complète basée sur des algorithmes informatiques embarqués. Leur utilisation est réglementée pour assurer la sécurité et l'intégrité de l'espace aérien et des autres utilisateurs.
+  - **Composition d'un UAS:**
+    - **Véhicule aérien sans pilote (UAV):** C'est un avion sans pilote humain à bord, conçu pour effectuer des missions avec divers niveaux d'autonomie. Il peut être contrôlé à distance ou fonctionner de manière autonome grâce à des ordinateurs embarqués.
+    - **Contrôleur au sol (GSC):** Un système de commande au sol permet de piloter l'UAV à distance. Il s'agit d'une interface utilisateur permettant à un opérateur humain de contrôler et de surveiller le vol de l'UAV.
+    - **Système de Communication:** Ce système établit une connexion entre l'UAV et le GSC, permettant le transfert d'informations de commande et de données de vol en temps réel.
+  
+  - **Nécessité d'un UAS:**
+    - **Niveau d'Autonomie:** Les UAVs peuvent fonctionner sous divers degrés d'autonomie, depuis le contrôle manuel par un opérateur humain jusqu'à l'autonomie complète, où l'UAV prend des décisions basées sur les algorithmes de l'ordinateur de bord.
+    - **Applications:** Les UAS sont utilisés dans de nombreux domaines, tels que la surveillance, la photographie aérienne, l'agriculture de précision, les inspections d'infrastructures, et les opérations de recherche et de sauvetage.
+    - **Considérations réglementaires:** Les opérations des UAS sont soumises à des réglementations qui varient selon les pays. Ces réglementations peuvent inclure des restrictions sur les zones de vol, les hauteurs de vol, et l'enregistrement des UAVs.
+  
