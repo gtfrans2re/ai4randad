@@ -43,6 +43,9 @@ Ce volet offre une introduction aux bases de la technologie des drones
     - **Autonomie d'une batterie LiPo** ;
     - **Temps de vol du quadricoptère muni d'une LiPo** ;
   - **En savoir plus** : [dronelife.com](dronelife.com)
+  - **Simulation / Virtualisation** :
+    - **Drone Demo by OSRF** : [https://github.com/osrf/drone_demo](https://github.com/osrf/drone_demo)
+    - **DroneViz** : [https://jderobot.github.io/projects/robots_programming_tools/](https://jderobot.github.io/projects/robots_programming_tools/)
 
 ### Partie 1 : Drones autonomes ou véhicules aériens sans pilote
 - **Système aérien sans pilote (UAS)** :
