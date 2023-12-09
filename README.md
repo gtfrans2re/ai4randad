@@ -139,15 +139,15 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 
 ### Partie 4: Préparation à l'emploi
 - Conseils importants pour les étudiants ingénieurs de première année ;
-- Letrre de motivation :
+- Letrre de motivation : [https://www.overleaf.com/latex/templates?q=Motivation+letter](https://www.overleaf.com/latex/templates?q=Motivation+letter)
   - C'est quoi ?
   - Quel contenu ?
   - Comment l'écrire ?
-- CV :
+- CV : [https://www.overleaf.com/latex/templates?q=CV](https://www.overleaf.com/latex/templates?q=CV)
   - C'est quoi ?
   - Quel contenu ?
   - Comment l'écrire ?
-- L'entretien : Comment s'y prendre ?
+- L'entretien : Comment s'y prendre ? [https://www.overleaf.com/latex/templates?q=Interview](https://www.overleaf.com/latex/templates?q=Interview)
   - Avant ;
   - Pendant ;
   - Après ;
@@ -155,6 +155,6 @@ Cette session gratuite offre une introduction aux **fondamentaux de la robotique
 ---
  
 ### P.S. Opportunités pour étudiants ingénieurs :
-- Google Developer Student Clubs (GSoC) ;
-- Google Summer of Code (GSoC) ;
-- Outreachy ;
+- Google Developer Student Clubs (GSoC) : [https://www.outreachy.org](https://www.outreachy.org) ;
+- Google Summer of Code (GSoC) [https://summerofcode.withgoogle.com](https://summerofcode.withgoogle.com);
+- Outreachy : [https://www.outreachy.org](https://www.outreachy.org) ;
