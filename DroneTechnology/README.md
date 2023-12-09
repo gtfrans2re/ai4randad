@@ -12,36 +12,36 @@ Ce volet offre une introduction aux bases de la technologie des drones
 
 ### Partie 0 : Principes de base de la technologie des drones
 - **Drone** :
-  - **Définition** : [Description 1](#)
+  - **Définition** : [https://fr.wikipedia.org/wiki/Drone](https://fr.wikipedia.org/wiki/Drone)
   - **Types** :
-    - **Drones multirotors** : [Description 1](#)
-    - **Drones à ailes fixes** : [Description 2](#)
-    - **Drones hélicoptères monorotor** : [Description 3](#)
-    - **Drones hybrides VTOL à voilure fixe** : [Description 4](#)
+    - **Drones multirotors** : [https://en.wikipedia.org/wiki/Multirotor](https://en.wikipedia.org/wiki/Multirotor)
+    - **Drones à ailes fixes** ;
+    - **Drones hélicoptères monorotor** ;
+    - **Drones hybrides VTOL à voilure fixe** ;
   - **Applications** :
-    - **Levés avec Photos Orthographiques** : [Description 1](#)
-    - **Inspection Industrielle** : [Description 2](#)
-    - **Photographie Aérienne** : [Description 3](#)
-    - **Vidéographie Aérienne** : [Description 4](#)
-    - **Services de Surveillance** : [Description 5](#) 
+    - **Levés avec Photos Orthographiques** ;
+    - **Inspection Industrielle** ;
+    - **Photographie Aérienne** ;
+    - **Vidéographie Aérienne** ;
+    - **Services de Surveillance** ;
 - **Drones quadricoptères / quadrirotors** :
   - **Définition** : [Description 1](#)
-  - **Principe de fonctionnement** : [Description 2](#)
+  - **Principe de fonctionnement** : [https://www.dronetechplanet.com/physics-behind-how-drones-fly/](https://www.dronetechplanet.com/physics-behind-how-drones-fly/)
   - **Pièces du quadricoptère et leurs fonctions** :
-    - **Quatre hélices** : [Description 1](#)
-    - **Quatre moteurs BLDC sans balais** : [Description 2]
-    - **Quatre contrôleurs de vitesse électroniques (ESC)** : [Description 3](#)
-    - **Châssis de drone quadrirotors** : [Description 4](#)
-    - **Train d'atterrissage** : [Description 5](#)
-    - **Carte de distribution d'énergie pour drone quadricoptère** : [Description 6](#)
-    - **Contrôleur de vol** : [Description 7](#)
-    - **Émetteur et récepteur** : [Description 8](#)
-    - **Batterie au lithium polymère (LiPo) & chargeur** : [Description 9](#)
-    - **GPS Module & Laser** : [Description 10](#)
-    - **Capteurs de bord (e.g. Camera Infrarouge)** : [Description 11](#)
+    - **Quatre hélices** ;
+    - **Quatre moteurs BLDC sans balais** ;
+    - **Quatre contrôleurs de vitesse électroniques (ESC)** ;
+    - **Châssis de drone quadrirotors** ;
+    - **Train d'atterrissage** ;
+    - **Carte de distribution d'énergie pour drone quadricoptère** ;
+    - **Contrôleur de vol** ;
+    - **Émetteur et récepteur** ;
+    - **Batterie au lithium polymère (LiPo) & chargeur** ;
+    - **GPS Module & Laser** ;
+    - **Capteurs de bord (e.g. Camera Infrarouge)** ;
   - **Autonomie de la batterie et temps de vol du quadricoptère** :
-    - **Autonomie d'une batterie LiPo** : [Description 1](#)
-    - **Temps de vol du quadricoptère muni d'une LiPo** : [Description 2](#) 
+    - **Autonomie d'une batterie LiPo** ;
+    - **Temps de vol du quadricoptère muni d'une LiPo** ;
 
 ### Partie 1 : Drones autonomes ou véhicules aériens sans pilote
 - **Système aérien sans pilote (UAS)** :
