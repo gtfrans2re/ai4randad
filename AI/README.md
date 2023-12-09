@@ -1,7 +1,20 @@
 # Partie 3 : Application de l'IA à la robotique et la technologie des drones
 
+![Couverture Robotics 101](images/AIRANDAD.png)
 
-## Types d'Apprentissage Automatique en Robotique
+## Présentation
+Ce volet explorer l'application de l'intelligence artificielle dans la robotique et la technologie des drones.
+
+## Objectif
+- Fournir un aperçu général de l'application de l'IA à ces domaines ;
+
+## Programme
+
+### Partie 0 : Ressources Importantes
+- **Intro à l'IA**: [Codecademy IA](https://www.codecademy.com/search?query=Artificial%20Intelligence)
+- **Communauté et Forums**: [Stack Overflow](https://stackoverflow.com/questions/tagged/robotics)
+
+### Parties 1 : Types d'Apprentissage Automatique en Robotique
 
 - **Apprentissage Supervisé** : Formation d'un modèle sur un ensemble de données étiquetées, où la sortie correcte est connue. Le modèle apprend à prédire la sortie à partir des données d'entrée. En robotique, cela est utilisé pour des tâches comme la reconnaissance d'objets.
 - **Apprentissage Non Supervisé** : Ce type d'apprentissage ne nécessite pas de données étiquetées. Le modèle cherche des motifs et des relations dans les données par lui-même. Utilisé en robotique pour le regroupement d'objets similaires ou la réduction de dimensionnalité des données sensorielles.
