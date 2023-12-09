@@ -128,9 +128,9 @@ Ce volet offre une introduction aux fondamentaux de la robotique
     - **Buzzers** : [Description 2](#)
     - **Autres** : [Description 3](#)
   - **Virtualisation & Plateformes** :
-    - **Tinkercad** : [Description 1](#)
-    - **Circuito.io** : [Description 2](#)
-    - **hackster.io** : [Description 3](#)
+    - **Tinkercad** : [https://www.tinkercad.com](https://www.tinkercad.com)
+    - **Circuito.io** : [https://www.circuito.io](https://www.circuito.io)
+    - **hackster.io** : [https://www.hackster.io](https://www.hackster.io)
   - **Communication** :
     - **Serial** : [Description 1](#)
     - **Parallèle** : [Description 2](#)
