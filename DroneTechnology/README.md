@@ -42,6 +42,7 @@ Ce volet offre une introduction aux bases de la technologie des drones
   - **Autonomie de la batterie et temps de vol du quadricoptère** :
     - **Autonomie d'une batterie LiPo** ;
     - **Temps de vol du quadricoptère muni d'une LiPo** ;
+  - **En savoir plus** : [dronelife.com](dronelife.com)
 
 ### Partie 1 : Drones autonomes ou véhicules aériens sans pilote
 - **Système aérien sans pilote (UAS)** :
