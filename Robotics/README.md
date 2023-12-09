@@ -153,7 +153,7 @@ Ce volet offre une introduction aux fondamentaux de la robotique
   - **Connection Microcontrôleur & Cloud** ;
  
 ### Partie 2 : Fondation du code pour ROS ou Robot Operating System (Système d'Exploitation pour la Robotique)
-- **Linux pour ROS** : 
+- **Linux pour ROS** : [Bases Linux pour le développement de robots](https://app.theconstructsim.com/courses/40)
   - **Navigation à travers un système de fichiers Linux** ;
   - **Interagir avec le système de fichiers Linux** ;
   - **Editer des fichiers à l'aide du shell (Emacs/Vi/Vim)** ;
@@ -162,7 +162,7 @@ Ce volet offre une introduction aux fondamentaux de la robotique
   - **Gérer les exécutions de programmes Linux (Processes)** ;
   - **Se connecter à l'ordinateur distant d'un robot (ssh)** ;
  
-- **Python (3) for ROS** :
+- **Python (3) for ROS** : [Bases de Python 3 pour la programmation de robots](https://app.theconstructsim.com/courses/58)
   - **Stockage des données dans des variables** ;
   - **Operating with data in the variables** ;
   - **Modifier le comportement en fonction des conditions** ;
